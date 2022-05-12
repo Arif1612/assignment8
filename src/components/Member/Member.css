@@ -1,0 +1,24 @@
+.member-container {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin: 5px;
+}
+
+.total-member {
+    margin-left: 5px;
+}
+
+.count-member {
+    margin-left: 5px;
+    text-align: center;
+    border: 5px solid salmon;
+    margin-top: 100px;
+    width: 95%;
+    height: 10%;
+    border-radius: 10px;
+}
+
+.member-count {
+    text-align: center;
+    margin: 30px;
+}
