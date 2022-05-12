@@ -31,7 +31,6 @@ const Member = () => {
                         person={person}
                         handleAddToCart={handleAddToCart}
                     >
-
                     </Person>)
                 }
 
